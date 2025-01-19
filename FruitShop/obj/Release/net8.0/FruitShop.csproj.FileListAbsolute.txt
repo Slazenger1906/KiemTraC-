@@ -1,0 +1,14 @@
+D:\C#\C#Core\FruitShop\FruitShop\bin\Release\net8.0\FruitShop.exe
+D:\C#\C#Core\FruitShop\FruitShop\bin\Release\net8.0\FruitShop.deps.json
+D:\C#\C#Core\FruitShop\FruitShop\bin\Release\net8.0\FruitShop.runtimeconfig.json
+D:\C#\C#Core\FruitShop\FruitShop\bin\Release\net8.0\FruitShop.dll
+D:\C#\C#Core\FruitShop\FruitShop\bin\Release\net8.0\FruitShop.pdb
+D:\C#\C#Core\FruitShop\FruitShop\obj\Release\net8.0\FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#Core\FruitShop\FruitShop\obj\Release\net8.0\FruitShop.AssemblyInfoInputs.cache
+D:\C#\C#Core\FruitShop\FruitShop\obj\Release\net8.0\FruitShop.AssemblyInfo.cs
+D:\C#\C#Core\FruitShop\FruitShop\obj\Release\net8.0\FruitShop.csproj.CoreCompileInputs.cache
+D:\C#\C#Core\FruitShop\FruitShop\obj\Release\net8.0\FruitShop.dll
+D:\C#\C#Core\FruitShop\FruitShop\obj\Release\net8.0\refint\FruitShop.dll
+D:\C#\C#Core\FruitShop\FruitShop\obj\Release\net8.0\FruitShop.pdb
+D:\C#\C#Core\FruitShop\FruitShop\obj\Release\net8.0\FruitShop.genruntimeconfig.cache
+D:\C#\C#Core\FruitShop\FruitShop\obj\Release\net8.0\ref\FruitShop.dll
